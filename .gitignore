@@ -1,19 +1,19 @@
-# Ignore Python cache
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
 
-# Ignore model binaries unless specifically tracked
-*.pkl
-*.pkl2
-
-# Ignore environment folders
+# Ignore virtual environments
 env/
 .venv/
-onyx/     # your specific virtual environment
+onyx/
 
-# Ignore unnecessary folders
+# Ignore Jupyter junk
+*.ipynb_checkpoints/
+
+# Ignore unused folders
 Archive/
 Non-Essential/
 
-# Ignore Jupyter checkpoint files
-*.ipynb_checkpoints/
+# ALLOW model.pkl2 to be committed
+!model.pkl2
