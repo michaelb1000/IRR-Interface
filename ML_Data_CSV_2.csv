@@ -1,0 +1,430 @@
+OpportunityType,State,Industry,OfftakerSector,Fund,IRR,EPC,Size
+M&A,CA,Government,Industrial/Manufacturing,Nova I,0.203,2.7,599.39
+M&A,CA,Technology,Industrial/Manufacturing,Nova I,0.207,2.32,623.81
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.2,2.69,217.0
+RFP,NJ,Energy,MUSH/Non-Profit,Janus I,0.224,0.15,28.8
+Non-RFP,MD,Recreation,Military,Solar Mission I,0.154,2.48,358.54
+M&A,CA,Energy,Commercial/Consumer Brands,Sunbird I,0.22,2.73,3021.74
+M&A,OH,Agriculture,Military,Phoenix I,0.164,1.88,1008.7
+M&A,CT,Agriculture,Military,Phoenix I,0.162,1.55,280.8
+M&A,CT,Agriculture,Military,Phoenix I,0.163,1.45,279.24
+M&A,NJ,Technology,Industrial/Manufacturing,Phoenix I,0.205,2.34,312.12
+M&A,CA,Energy,Commercial/Consumer Brands,Sunbird I,0.217,1.51,859.56
+M&A,CA,Energy,Commercial/Consumer Brands,Sunbird I,0.216,1.51,807.3
+M&A,AZ,Recreation,Military,Obsidian II,0.125,5.22,75.6
+M&A,AZ,Recreation,Military,Nova I,0.144,3.63,653.4
+M&A,MD,Agriculture,Military,Sunbird I,0.161,2.41,1318.24
+M&A,AZ,Recreation,Military,Obsidian II,0.15,2.66,140.4
+M&A,CA,Electronics,Commercial/Consumer Brands,Nova I,0.238,1.64,4087.58
+M&A,NY,Energy,Commercial/Consumer Brands,Sunbird I,0.211,2.17,999.1
+M&A,MA,Electronics,Commercial/Consumer Brands,Nova I,0.226,2.32,3355.92
+M&A,IL,Energy,Commercial/Consumer Brands,Phoenix I,0.212,1.64,7434.0
+M&A,MD,Agriculture,Military,Sunbird I,0.164,1.74,803.645
+M&A,MD,Agriculture,Military,Sunbird I,0.167,1.73,1204.74
+M&A,CA,Technology,Industrial/Manufacturing,Nova I,0.209,2.05,515.08
+M&A,IL,Government,Industrial/Manufacturing,Phoenix I,0.2,1.69,5757.13
+M&A,AZ,Recreation,Military,Sunbird I,0.151,2.67,300.78
+M&A,AZ,Recreation,Military,Obsidian II,0.144,3.17,29.16
+M&A,NY,Energy,Commercial/Consumer Brands,Obsidian II,0.237,2.55,5186.2
+Onyx as Original Owner,KS,Agriculture,Military,Nova I,0.16,2.58,1375.92
+M&A,MA,Energy,Commercial/Consumer Brands,Nova I,0.22,2.59,2875.42
+M&A,AZ,Recreation,Military,Sunbird I,0.147,3.21,458.98
+M&A,AZ,Recreation,Military,Obsidian II,0.153,2.46,315.36
+M&A,AZ,Recreation,Military,Obsidian II,0.143,3.38,128.52
+M&A,AZ,Construction,Military,Obsidian II,0.155,2.32,343.44
+M&A,AZ,Recreation,Military,Obsidian II,0.142,3.37,29.16
+Onyx as Original Owner,HI,Recreation,Military,Obsidian II,0.104,7.66,518.75
+M&A,AZ,Recreation,Military,Obsidian II,0.144,3.32,177.12
+M&A,CA,Energy,Commercial/Consumer Brands,Phoenix I,0.21,1.9,418.0
+M&A,CA,Energy,Commercial/Consumer Brands,Phoenix I,0.212,1.74,470.9
+M&A,CA,Energy,Commercial/Consumer Brands,Phoenix I,0.21,1.94,540.64
+M&A,AZ,Recreation,Military,Obsidian II,0.148,2.89,141.48
+M&A,AZ,Recreation,Military,Obsidian II,0.141,3.6,73.44
+M&A,AZ,Construction,Military,Obsidian II,0.155,2.51,568.62
+M&A,AZ,Recreation,Military,Obsidian II,0.122,5.45,55.08
+M&A,AZ,Recreation,Military,Obsidian II,0.141,3.64,254.88
+Onyx as Original Owner,CA,Energy,Commercial/Consumer Brands,Nova I,0.21,2.4,1140.48
+Onyx as Original Owner,MA,Education,MUSH/Non-Profit,Phoenix I,0.191,3.66,267.15
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Sunbird I,0.19,4.89,1730.7
+Onyx as Original Owner,CT,Agriculture,MUSH/Non-Profit,Obsidian II,0.178,1.76,2837.64
+Onyx as Original Owner,CA,Education,Real Estate,EPC Only,0.192,3.49,81.89
+Onyx as Original Owner,NJ,Education,MUSH/Non-Profit,Obsidian II,0.21,1.92,443.52
+Onyx as Original Owner,NJ,Education,MUSH/Non-Profit,Obsidian II,0.214,1.92,1115.732
+M&A,NY,Energy,Real Estate,EPC Only,0.224,2.9,3868.4
+M&A,MA,Technology,Industrial/Manufacturing,EPC Only,0.207,2.19,455.52
+M&A,MA,Technology,Industrial/Manufacturing,EPC Only,0.205,2.29,308.79
+M&A,NJ,Energy,Commercial/Consumer Brands,EPC Only,0.212,2.0,950.4
+M&A,MA,Government,Industrial/Manufacturing,EPC Only,0.202,2.77,498.96
+Non-RFP,RI,Construction,Military,EPC Only,0.157,2.16,417.24
+M&A,NY,Technology,Industrial/Manufacturing,EPC Only,0.207,2.29,519.87
+M&A,CA,Technology,Industrial/Manufacturing,EPC Only,0.207,2.29,537.54
+M&A,CA,Electronics,Industrial/Manufacturing,EPC Only,0.22,0.94,601.92
+M&A,NJ,Government,MUSH/Non-Profit,EPC Only,0.214,1.84,971.52
+M&A,MA,Electronics,MUSH/Non-Profit,Solar Mission II,0.228,1.74,2725.56
+Non-RFP,RI,Agriculture,Military,Janus I,0.166,1.8,1249.92
+Non-RFP,AZ,Construction,Military,Private Investor,0.156,2.3,400.66
+Non-RFP,CT,Agriculture,Military,CTAZ,0.169,1.12,655.54
+M&A,CA,Energy,MUSH/Non-Profit,Solar Mission III,0.218,1.56,1103.52
+M&A,CA,Energy,MUSH/Non-Profit,Solar Mission III,0.217,1.61,1103.52
+Non-RFP,IL,Agriculture,Military,Janus II,0.161,1.95,652.68
+Non-RFP,CT,Education,MUSH/Non-Profit,Janus I,0.15,2.65,93.81
+Non-RFP,NJ,Government,Industrial/Manufacturing,Onyx,0.203,2.47,318.92
+Non-RFP,MD,Construction,Military,Solar Mission II,0.159,1.67,76.95
+M&A,MD,Healthcare,Military,Solar Mission I,0.195,2.48,6218.215
+Non-RFP,NY,Energy,MUSH/Non-Profit,Private Investor,0.218,1.43,996.48
+M&A,NY,Government,MUSH/Non-Profit,Janus I,0.226,1.94,2801.16
+M&A,MA,Government,MUSH/Non-Profit,Solar Mission II,0.24,1.87,4698.0
+RFP,MD,Agriculture,Military,Solar Mission I,0.174,0.95,1144.26
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.161,1.54,177.45
+Non-RFP,AZ,Construction,Military,Janus I,0.155,2.25,246.9
+Non-RFP,AZ,Construction,Military,Janus I,0.155,2.19,185.25
+Non-RFP,AZ,Construction,Military,Janus I,0.159,2.17,640.25
+Non-RFP,AZ,Construction,Military,Janus I,0.156,2.13,297.48
+Non-RFP,AZ,Construction,Military,Janus I,0.156,2.21,333.66
+Non-RFP,AZ,Recreation,Military,Janus I,0.152,2.57,277.38
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.155,2.21,154.05
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.155,2.33,404.68
+Non-RFP,AZ,Agriculture,Military,CTAZ,0.161,1.71,297.75
+M&A,CA,Technology,MUSH/Non-Profit,Janus I,0.205,2.33,319.59
+M&A,CA,Technology,MUSH/Non-Profit,Janus I,0.209,2.32,964.8
+M&A,CA,Technology,Industrial/Manufacturing,Janus I,0.206,2.44,611.82
+M&A,CA,Education,MUSH/Non-Profit,Solar Mission III,0.201,2.58,186.93
+M&A,CA,Education,MUSH/Non-Profit,Solar Mission III,0.208,2.33,765.81
+Onyx as Original Owner,NJ,Education,Industrial/Manufacturing,Solar Mission III,0.189,4.33,783.53
+M&A,NJ,Healthcare,Industrial/Manufacturing,Janus I,0.201,2.95,612.0
+RFP,NJ,Electronics,MUSH/Non-Profit,Janus I,0.229,0.15,806.4
+Non-RFP,AZ,Construction,Military,Janus II,0.156,2.29,421.8
+Non-RFP,AZ,Construction,Military,Janus II,0.155,2.3,293.78
+Non-RFP,AZ,Construction,Military,Janus II,0.157,2.01,224.96
+RFP,CT,Agriculture,MUSH/Non-Profit,Solar Mission III,0.173,0.28,122.4
+RFP,CT,Agriculture,MUSH/Non-Profit,Solar Mission III,0.175,0.01,36.72
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.162,1.46,140.4
+Onyx as Original Owner,CA,Energy,Commercial/Consumer Brands,Solar Mission III,0.217,1.79,1266.3
+M&A,NY,Government,MUSH/Non-Profit,Solar Mission II,0.225,1.88,2597.4
+M&A,NJ,Government,MUSH/Non-Profit,Solar Mission III,0.209,1.93,407.695
+M&A,NJ,Government,MUSH/Non-Profit,Solar Mission III,0.207,1.93,97.485
+M&A,NJ,Government,MUSH/Non-Profit,Solar Mission III,0.207,1.93,48.24
+M&A,CA,Education,MUSH/Non-Profit,Solar Mission III,0.193,3.4,144.72
+M&A,CA,Technology,Industrial/Manufacturing,Solar Mission III,0.215,1.23,316.8
+M&A,CA,Technology,Industrial/Manufacturing,Solar Mission III,0.213,1.32,162.81
+M&A,CA,Technology,Industrial/Manufacturing,Solar Mission III,0.212,1.46,184.14
+M&A,CA,Government,MUSH/Non-Profit,Solar Mission III,0.213,2.0,1082.05
+M&A,CA,Government,MUSH/Non-Profit,Solar Mission III,0.2,2.62,90.45
+M&A,CA,Government,MUSH/Non-Profit,Solar Mission III,0.198,2.87,144.72
+M&A,CA,Government,MUSH/Non-Profit,Solar Mission III,0.202,2.43,144.72
+M&A,CA,Government,MUSH/Non-Profit,Solar Mission III,0.199,2.82,217.08
+M&A,CA,Government,MUSH/Non-Profit,Solar Mission III,0.201,2.62,229.14
+M&A,CA,Government,MUSH/Non-Profit,Solar Mission III,0.201,2.52,84.42
+M&A,CA,Education,MUSH/Non-Profit,Solar Mission III,0.189,3.76,72.36
+M&A,CA,Government,MUSH/Non-Profit,Solar Mission III,0.199,2.9,235.17
+M&A,CA,Education,MUSH/Non-Profit,Solar Mission III,0.194,3.36,168.84
+M&A,CA,Technology,MUSH/Non-Profit,Solar Mission III,0.207,2.56,982.89
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.202,2.62,301.5
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.204,2.38,301.5
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.195,3.14,102.51
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.197,2.94,144.72
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.198,2.88,117.0
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.207,2.27,526.5
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.211,2.24,1140.48
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.2,2.77,247.23
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.197,2.97,180.9
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.198,2.9,178.2
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.193,3.34,130.68
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.198,2.86,162.81
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.197,2.99,162.81
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.206,2.27,422.1
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.192,3.59,235.17
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.206,2.31,475.2
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.196,3.09,144.72
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.196,3.07,136.62
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.197,3.05,162.81
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.194,3.27,144.72
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.186,4.13,205.02
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.195,3.19,180.9
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.208,2.4,868.32
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.197,2.98,180.9
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.198,2.92,241.2
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.21,2.37,1117.35
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.206,2.25,361.8
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.195,3.21,138.69
+Non-RFP,CT,Government,MUSH/Non-Profit,Janus I,0.167,1.27,617.745
+Non-RFP,IL,Agriculture,Military,Janus II,0.164,1.75,804.86
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,26.4
+Non-RFP,CO,Agriculture,Military,Janus II,0.162,1.48,116.16
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,91.41
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,53.13
+Non-RFP,CO,Agriculture,Military,Janus II,0.166,1.48,748.11
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,68.625
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,73.26
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,26.4
+Non-RFP,CO,Agriculture,Military,Janus II,0.162,1.48,228.69
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,56.76
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,22.44
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,109.56
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,41.25
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,26.4
+Non-RFP,CO,Agriculture,Military,Janus II,0.162,1.48,154.77
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,49.83
+Non-RFP,CO,Agriculture,Military,Janus II,0.162,1.48,189.09
+Non-RFP,CO,Agriculture,Military,Janus II,0.161,1.48,33.0
+Non-RFP,CO,Recreation,Military,Janus II,0.149,2.95,431.34
+RFP,IL,Agriculture,Military,Janus II,0.172,1.58,1748.62
+Non-RFP,AZ,Recreation,Military,Private Investor,0.152,2.53,272.16
+RFP,AZ,Agriculture,Military,Solar Mission III,0.171,1.8,1825.56
+Non-RFP,AZ,Construction,Military,Janus I,0.155,2.27,283.5
+Non-RFP,AZ,Construction,Military,Janus I,0.156,2.34,468.0
+Non-RFP,AZ,Recreation,Military,Janus I,0.154,2.32,187.2
+Non-RFP,AZ,Construction,Military,Janus I,0.155,2.28,260.82
+Non-RFP,AZ,Construction,Military,Janus I,0.157,2.36,753.75
+Non-RFP,AZ,Recreation,Military,Janus I,0.154,2.53,498.96
+Non-RFP,AZ,Construction,Military,Janus I,0.156,2.28,370.14
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.157,2.17,395.34
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.156,2.18,299.5
+Non-RFP,NJ,Education,MUSH/Non-Profit,Janus II,0.204,2.3,230.25
+M&A,MA,Government,MUSH/Non-Profit,Solar Mission II,0.232,1.68,3255.84
+M&A,CA,Government,MUSH/Non-Profit,Janus I,0.204,2.24,168.84
+M&A,CA,Government,MUSH/Non-Profit,Janus I,0.202,2.47,108.54
+M&A,CA,Energy,MUSH/Non-Profit,Janus I,0.21,2.21,946.71
+M&A,CA,Government,MUSH/Non-Profit,Janus I,0.203,2.32,138.69
+M&A,CA,Technology,MUSH/Non-Profit,Janus I,0.206,2.15,217.08
+M&A,CA,Technology,MUSH/Non-Profit,Janus I,0.206,2.13,229.14
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.2,2.69,156.78
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.205,2.27,319.59
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.201,2.67,241.2
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.204,2.42,367.83
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.216,1.01,132.66
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.2,2.69,150.75
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.203,2.4,217.08
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.2,2.69,150.75
+M&A,NJ,Government,MUSH/Non-Profit,Janus I,0.212,1.67,391.68
+M&A,NJ,Government,MUSH/Non-Profit,Janus I,0.214,1.71,794.88
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.203,2.5,301.5
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.199,2.8,120.6
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.202,2.49,168.84
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.207,2.27,512.55
+M&A,CA,Energy,MUSH/Non-Profit,Solar Mission III,0.21,2.27,964.8
+M&A,CA,Energy,MUSH/Non-Profit,Solar Mission III,0.211,2.19,1013.04
+M&A,CA,Technology,Industrial/Manufacturing,Solar Mission III,0.216,1.17,368.55
+M&A,CA,Technology,Industrial/Manufacturing,Solar Mission III,0.216,1.18,380.25
+M&A,CA,Technology,MUSH/Non-Profit,Solar Mission III,0.205,2.15,60.3
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.159,1.7,124.2
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.164,1.41,309.075
+M&A,NJ,Technology,MUSH/Non-Profit,Solar Mission III,0.209,2.01,466.99
+M&A,NJ,Technology,MUSH/Non-Profit,Solar Mission III,0.206,2.01,72.36
+M&A,NJ,Technology,MUSH/Non-Profit,Solar Mission III,0.206,2.01,79.73
+Non-RFP,CT,Education,MUSH/Non-Profit,Solar Mission III,0.161,1.53,120.4
+M&A,NM,Energy,Commercial/Consumer Brands,Solar Mission II,0.21,1.38,6782.0
+M&A,MA,Education,MUSH/Non-Profit,Janus I,0.193,3.47,180.9
+M&A,MA,Energy,MUSH/Non-Profit,Janus I,0.212,1.95,832.14
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.162,1.46,98.49
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.166,1.14,226.2
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.167,1.1,401.7
+Non-RFP,CT,Education,MUSH/Non-Profit,Solar Mission III,0.169,1.66,1370.88
+Non-RFP,CT,Education,MUSH/Non-Profit,Solar Mission III,0.168,1.66,1310.4
+Non-RFP,CT,Education,MUSH/Non-Profit,Solar Mission III,0.164,2.04,1265.22
+Non-RFP,CT,Government,MUSH/Non-Profit,Janus I,0.151,2.56,169.66
+Non-RFP,CT,Government,MUSH/Non-Profit,Janus I,0.151,2.54,158.44
+Non-RFP,CT,Recreation,Military,Solar Mission III,0.162,1.41,149.76
+M&A,VT,Agriculture,Real Estate,Janus I,0.164,1.67,670.68
+M&A,VT,Agriculture,Real Estate,Janus I,0.163,1.71,670.68
+M&A,VT,Agriculture,Real Estate,Janus I,0.163,1.72,660.96
+M&A,VT,Agriculture,Real Estate,Janus I,0.161,1.78,471.96
+M&A,NJ,Government,MUSH/Non-Profit,Solar Mission III,0.215,1.91,1230.12
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Janus II,0.198,3.07,378.0
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Janus II,0.203,2.72,648.0
+M&A,CA,Education,MUSH/Non-Profit,Janus II,0.199,3.03,506.25
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Janus II,0.199,2.97,378.0
+M&A,CA,Education,MUSH/Non-Profit,Janus II,0.196,3.41,513.0
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.199,2.87,223.11
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.211,2.21,1037.16
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.2,2.79,277.38
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.196,3.21,259.29
+M&A,CA,Technology,Industrial/Manufacturing,Janus I,0.212,1.51,207.36
+M&A,NJ,Technology,Industrial/Manufacturing,Solar Mission III,0.204,2.24,117.0
+M&A,CA,Government,MUSH/Non-Profit,Janus I,0.213,1.72,675.36
+Onyx as Original Owner,NJ,Energy,Industrial/Manufacturing,Solar Mission III,0.219,1.11,702.24
+Onyx as Original Owner,NJ,Energy,Industrial/Manufacturing,Solar Mission III,0.213,1.82,790.02
+M&A,NY,Electronics,Industrial/Manufacturing,Solar Mission II,0.234,1.28,2984.85
+M&A,NY,Electronics,Industrial/Manufacturing,Solar Mission II,0.234,1.23,2984.85
+M&A,NY,Electronics,Industrial/Manufacturing,Solar Mission II,0.232,1.43,2984.85
+M&A,NY,Electronics,Industrial/Manufacturing,Solar Mission II,0.235,1.12,2984.85
+M&A,NY,Electronics,Industrial/Manufacturing,Solar Mission II,0.234,1.23,2984.85
+M&A,NY,Electronics,Industrial/Manufacturing,Solar Mission II,0.232,1.52,2984.85
+M&A,KS,Electronics,Military,Solar Mission II,0.226,2.5,10504.83
+RFP,MD,Agriculture,Military,Solar Mission II,0.173,1.67,1996.06
+M&A,CA,Education,MUSH/Non-Profit,Solar Mission II,0.21,1.77,363.0
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.161,1.58,117.0
+M&A,CA,Electronics,Military,Solar Mission II,0.235,1.87,3896.295
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.162,1.45,140.4
+Non-RFP,CT,Agriculture,MUSH/Non-Profit,Janus I,0.165,1.14,188.65
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.2,2.71,144.72
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.199,2.76,120.6
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.203,2.41,223.11
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.2,2.71,126.63
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.203,2.42,253.26
+M&A,CA,Government,MUSH/Non-Profit,Janus I,0.203,2.5,351.0
+M&A,CA,Government,MUSH/Non-Profit,Janus I,0.203,2.54,351.0
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.157,2.09,374.4
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.155,2.22,189.15
+Non-RFP,AZ,Recreation,Military,Solar Mission III,0.154,2.65,629.64
+Non-RFP,AZ,Recreation,Military,Solar Mission III,0.154,2.38,324.0
+Non-RFP,AZ,Construction,Military,Janus II,0.155,2.35,397.005
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.157,2.21,514.875
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.156,2.16,230.88
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.165,1.26,371.25
+Non-RFP,AZ,Recreation,Military,Janus II,0.152,2.49,106.19
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.156,2.3,415.8
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.163,1.73,640.1
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.156,2.17,351.0
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.157,2.04,202.76
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.156,2.08,210.6
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.156,2.05,169.65
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.155,2.23,165.75
+Non-RFP,AZ,Recreation,Military,Janus II,0.149,2.71,93.24
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.158,1.93,210.6
+Non-RFP,AZ,Agriculture,Military,Solar Mission III,0.162,1.9,788.7
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.157,2.13,405.0
+Non-RFP,AZ,Recreation,Military,Solar Mission III,0.154,2.29,179.625
+Non-RFP,AZ,Construction,Military,Solar Mission III,0.157,2.11,317.85
+M&A,CA,Healthcare,MUSH/Non-Profit,Janus I,0.197,3.01,144.72
+M&A,CA,Healthcare,MUSH/Non-Profit,Janus I,0.195,3.21,138.69
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.194,3.32,180.9
+M&A,CA,Healthcare,MUSH/Non-Profit,Janus I,0.196,3.14,138.69
+M&A,CA,Technology,MUSH/Non-Profit,Janus I,0.206,2.04,138.69
+M&A,CA,Government,MUSH/Non-Profit,Janus I,0.198,2.85,144.72
+M&A,CA,Agriculture,MUSH/Non-Profit,Janus I,0.171,5.7,259.29
+M&A,CA,Government,MUSH/Non-Profit,Janus I,0.203,2.34,126.63
+M&A,CA,Government,MUSH/Non-Profit,Janus I,0.201,2.7,338.58
+Non-RFP,RI,Construction,Military,Janus II,0.157,2.01,223.56
+M&A,MA,Government,MUSH/Non-Profit,Janus II,0.198,3.06,337.44
+Non-RFP,MA,Energy,MUSH/Non-Profit,Solar Mission III,0.216,1.52,766.26
+M&A,MA,Technology,MUSH/Non-Profit,Janus I,0.208,1.94,237.6
+Non-RFP,CT,Agriculture,MUSH/Non-Profit,Solar Mission III,0.168,0.95,331.5
+Non-RFP,CT,Agriculture,MUSH/Non-Profit,Solar Mission III,0.167,1.85,1352.52
+RFP,CT,Government,MUSH/Non-Profit,Janus I,0.175,1.72,2391.9
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.213,1.57,392.04
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.204,2.42,319.59
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.205,2.18,192.96
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.207,2.12,385.92
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.207,2.17,482.4
+Non-RFP,NJ,Technology,MUSH/Non-Profit,Solar Mission III,0.209,2.2,795.6
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.205,2.18,96.48
+M&A,CA,Education,MUSH/Non-Profit,Janus I,0.208,1.9,180.9
+RFP,DE,Agriculture,Industrial/Manufacturing,Janus I,0.17,1.66,1572.48
+Non-RFP,MD,Agriculture,Military,Solar Mission II,0.161,1.6,236.11
+RFP,MD,Agriculture,Military,Solar Mission II,0.177,1.6,2448.18
+Onyx as Original Owner,MD,Education,Military,Solar Mission II,0.183,1.6,3256.2
+M&A,AZ,Construction,Military,Obsidian I,0.156,2.21,394.77
+M&A,AZ,Recreation,Military,Obsidian I,0.153,2.47,289.29
+M&A,CA,Energy,Commercial/Consumer Brands,Obsidian II,0.21,2.3,1025.64
+M&A,AZ,Recreation,Military,Obsidian II,0.141,3.96,587.52
+M&A,AZ,Recreation,Military,Obsidian II,0.133,4.33,73.44
+M&A,AZ,Recreation,Military,Obsidian II,0.145,3.13,71.04
+Onyx as Original Owner,CA,Government,MUSH/Non-Profit,Obsidian I,0.198,3.43,891.0
+Onyx as Original Owner,CA,Agriculture,MUSH/Non-Profit,Obsidian I,0.177,5.05,204.3
+Onyx as Original Owner,CA,Recreation,MUSH/Non-Profit,Obsidian I,0.151,7.71,101.25
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.191,3.84,408.6
+Onyx as Original Owner,CA,Healthcare,MUSH/Non-Profit,Obsidian I,0.195,3.28,270.0
+Onyx as Original Owner,CA,Agriculture,MUSH/Non-Profit,Obsidian I,0.177,5.11,256.5
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.19,3.77,222.75
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.193,3.53,384.75
+Onyx as Original Owner,CA,Agriculture,MUSH/Non-Profit,Obsidian II,0.176,5.15,203.4
+Onyx as Original Owner,CA,Agriculture,MUSH/Non-Profit,Obsidian II,0.176,5.16,202.5
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian I,0.193,3.68,560.25
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.188,3.92,176.58
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian I,0.18,4.79,271.8
+Onyx as Original Owner,CA,Agriculture,MUSH/Non-Profit,Obsidian I,0.176,5.15,202.5
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.181,4.7,277.8
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.192,3.59,310.5
+Onyx as Original Owner,CA,Agriculture,MUSH/Non-Profit,Obsidian II,0.166,6.22,202.5
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.186,4.31,386.91
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.184,4.42,326.16
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.189,3.84,182.25
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.184,4.46,291.51
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.185,4.46,519.03
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.185,4.46,483.48
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.183,4.46,222.78
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian II,0.183,4.46,127.98
+M&A,NY,Technology,Real Estate,Obsidian II,0.206,2.31,425.04
+Onyx as Original Owner,NY,Government,Real Estate,Obsidian II,0.204,2.44,398.43
+Onyx as Original Owner,NY,Government,Real Estate,Obsidian II,0.203,2.52,397.98
+Onyx as Original Owner,NY,Education,Real Estate,Obsidian II,0.193,3.35,81.09
+Onyx as Original Owner,NY,Government,Real Estate,Obsidian II,0.202,2.6,268.65
+Onyx as Original Owner,NY,Government,Real Estate,Obsidian II,0.201,2.58,175.32
+M&A,IL,Construction,Military,Sunbird I,0.164,1.86,1003.7
+M&A,IL,Construction,Military,Obsidian II,0.164,1.7,777.0
+RFP,IL,Construction,Military,Obsidian I,0.159,1.84,270.935
+RFP,IL,Construction,Military,Obsidian I,0.159,1.84,215.565
+RFP,IL,Construction,Military,Obsidian I,0.158,1.84,124.7
+RFP,IL,Agriculture,Military,Obsidian I,0.161,1.84,484.3
+M&A,CO,Agriculture,Military,Obsidian II,0.165,1.59,746.155
+Onyx as Original Owner,NJ,Technology,MUSH/Non-Profit,Obsidian II,0.207,2.63,1002.18
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian I,0.2,2.73,246.42
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian I,0.201,2.78,384.75
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Obsidian I,0.201,2.73,328.5
+Onyx as Original Owner,CA,Government,Industrial/Manufacturing,Obsidian I,0.203,2.9,918.0
+M&A,CA,Electronics,MUSH/Non-Profit,Obsidian II,0.235,1.91,3962.88
+M&A,CA,Education,MUSH/Non-Profit,Obsidian II,0.199,3.22,672.3
+M&A,CA,Education,MUSH/Non-Profit,Obsidian II,0.195,3.5,570.54
+M&A,CA,Education,MUSH/Non-Profit,Obsidian II,0.199,3.38,941.4
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Other - See Finance,0.193,3.29,0.0
+Onyx as Original Owner,CT,Agriculture,MUSH/Non-Profit,Phoenix I,0.167,1.95,1554.63
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Other - See Finance,0.198,2.77,0.0
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Other - See Finance,0.189,3.66,0.0
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Other - See Finance,0.201,2.45,0.0
+Onyx as Original Owner,CA,Education,MUSH/Non-Profit,Other - See Finance,0.203,2.28,0.0
+Onyx as Original Owner,HI,Recreation,Real Estate,Sunbird I,0.141,4.91,1890.0
+Onyx as Original Owner,CA,Government,Real Estate,EPC Only,0.202,2.63,402.0
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.146,3.19,269.73
+M&A,AZ,Recreation,Military,Obsidian II,0.152,2.44,140.4
+M&A,AZ,Recreation,Military,Obsidian II,0.154,2.32,142.2
+M&A,AZ,Recreation,Military,Obsidian II,0.154,2.29,175.5
+M&A,AZ,Recreation,Military,Obsidian II,0.152,2.46,112.32
+M&A,AZ,Recreation,Military,Obsidian II,0.154,2.27,175.5
+M&A,AZ,Construction,Military,Obsidian II,0.155,2.2,203.58
+M&A,AZ,Construction,Military,Obsidian II,0.156,2.09,206.19
+M&A,AZ,Recreation,Military,Obsidian II,0.154,2.24,139.04
+M&A,AZ,Recreation,Military,Obsidian II,0.152,2.88,666.895
+M&A,AZ,Recreation,Military,Obsidian II,0.153,2.88,771.42
+M&A,AZ,Recreation,Military,Obsidian I,0.152,2.56,241.63
+M&A,AZ,Construction,Military,Obsidian I,0.157,2.33,601.62
+Onyx as Original Owner,NJ,Technology,Military,Obsidian I,0.206,2.44,718.11
+M&A,AZ,Recreation,Military,Obsidian I,0.152,2.62,387.1
+M&A,AZ,Recreation,Military,Obsidian I,0.151,2.61,157.605
+Onyx as Original Owner,MD,Construction,Military,Obsidian I,0.157,2.36,730.345
+M&A,AZ,Recreation,Military,Obsidian I,0.151,2.6,217.19
+M&A,AZ,Recreation,Military,Obsidian I,0.15,2.65,163.53
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.15,2.66,159.975
+Onyx as Original Owner,MD,Construction,Military,Obsidian I,0.156,2.36,604.89
+M&A,AZ,Construction,Military,Obsidian I,0.155,2.25,223.38
+M&A,AZ,Recreation,Military,Obsidian I,0.153,2.32,137.64
+Non-RFP,RI,Agriculture,Military,Obsidian I,0.161,2.14,999.74
+Non-RFP,NJ,Government,Industrial/Manufacturing,Obsidian I,0.204,2.45,370.17
+Onyx as Original Owner,MD,Construction,Military,Sunbird I,0.158,2.36,794.97
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.15,2.67,109.02
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.149,2.77,142.2
+Non-RFP,MD,Agriculture,Military,Obsidian I,0.16,2.36,1126.62
+Non-RFP,MD,Construction,Military,Obsidian I,0.157,2.36,623.7
+Onyx as Original Owner,MD,Construction,Military,Obsidian I,0.159,2.36,980.1
+Onyx as Original Owner,MD,Construction,Military,Obsidian I,0.157,2.36,655.38
+Non-RFP,MD,Construction,Military,Obsidian I,0.156,2.36,502.92
+Non-RFP,RI,Recreation,Military,Obsidian I,0.149,2.79,106.145
+Non-RFP,AZ,Construction,Military,Obsidian I,0.158,1.91,163.54
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.152,2.55,177.6
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.153,2.57,361.8
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.153,2.57,348.4
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.152,2.58,352.42
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.153,2.56,340.36
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.152,3.02,933.565
+Non-RFP,AZ,Recreation,Military,Obsidian I,0.138,3.85,79.92
+Non-RFP,AZ,Construction,Military,Obsidian I,0.155,2.75,956.82
+Non-RFP,AZ,Agriculture,Military,Obsidian I,0.16,2.5,1294.5
+M&A,AZ,Recreation,Military,Obsidian I,0.148,2.87,132.6
+M&A,AZ,Recreation,Military,Obsidian II,0.151,2.59,227.52
+M&A,AZ,Recreation,Military,Obsidian II,0.152,2.61,255.91
+Onyx as Original Owner,KS,Agriculture,Military,Nova I,0.171,2.48,2864.16
+M&A,AZ,Recreation,Military,Obsidian II,0.153,2.42,149.76
+M&A,AZ,Recreation,Military,Obsidian I,0.126,5.31,391.05
+M&A,AZ,Recreation,Military,Obsidian II,0.154,2.33,224.64
+M&A,AZ,Recreation,Military,Obsidian I,0.119,5.77,40.95
+Onyx as Original Owner,KS,Agriculture,Military,Obsidian I,0.16,2.82,1779.0

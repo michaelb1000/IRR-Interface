@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model binaries unless specifically tracked
+*.pkl
+*.pkl2
+
+# Ignore environment folders
+env/
+.venv/
+onyx/     # your specific virtual environment
+
+# Ignore unnecessary folders
+Archive/
+Non-Essential/
+
+# Ignore Jupyter checkpoint files
+*.ipynb_checkpoints/
